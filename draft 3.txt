@@ -1,0 +1,31 @@
+﻿<html>
+<head>
+<title>Google</title>
+</head>
+<body>
+<header>
+<div style="text-align: right;">
+<a href="https://mail.google.com" target="_top" style="text-decoration:none;">Gmail</a>
+<a href="#" target="_self" style="text-decoration:none;">Images</a>
+<a href="#" target="_blank" style="text-decoration:none;">Apps</a>
+</div>
+</header>
+<div style="text-align: center;"><IMG SRC= "https://www.google.com/images/srpr/logo11w.png"/ style="width:340px;height:100;" alt= "Try some other time">
+<div>
+<input type="text" class="st-default-search-input" placeholder="Search google or type URL" style="width: 350px; height: 20px"> <br><br>
+<button onclick="location.href='www.tcs.com'">Google search</button>
+<button onclick="location.href='www.tcs.com'">I'm feeling lucky</button>
+</div>
+</div>
+<footer>
+<div style="text-align:center;">
+<a href="#"">Advertising</a>
+<a href="#">Business</a>
+<a href="#">About</a>
+<a href="#">Settings</a>
+<a href="#">Privacy & Terms</a>
+</div>
+<footer>
+</div>
+</body>
+</html>
