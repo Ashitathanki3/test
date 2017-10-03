@@ -1,0 +1,30 @@
+﻿<html>
+<head>
+<title>Google</title>
+</head>
+<body>
+<header>
+<div style="text-align: right;"><a href="#" target="_blank">Jimil Patel</a>
+<a href="https://mail.google.com" target="_top">Gmail</a>
+<a href="#" target="_self">Images</a>
+</div>
+</header>
+<div style="text-align: center;"><IMG SRC= "https://www.google.com/images/srpr/logo11w.png"/ style="width:340px;height:100;" alt= "Try some other time">
+<div>
+<input type="search" class="search"><br><br>
+<input type="submit" class="button" name="submit" value="Google Search">
+<input type="submit" class="button" name="lucky" value="I'm Feeling Lucky">
+</div>
+<footer>
+<div style="text-align: center;">
+<a href="#">Advertising</a>
+<a href="#">Business</a>
+<a href="#">About</a>
+<a href="#">Settings</a>
+<a href="#">Privacy & Terms</a>
+</div>
+</footer>
+</form>
+</div>
+</body>
+</html>
